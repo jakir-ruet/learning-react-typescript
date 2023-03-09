@@ -7,12 +7,7 @@ const UseProps = () => {
         email="jakir@gmail.com"
         phone={8724732}
         isBoy={true}
-      />
-      <CustomUser
-        name="Jakia"
-        email="jakia@gmail.com"
-        phone={843432}
-        isBoy={false}
+        skills={['html', 45, 'JavaScript']}
       />
     </div>
   );
